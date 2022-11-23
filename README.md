@@ -56,7 +56,7 @@ docker run -d \
   -v $HOME/pathfinder:/usr/share/pathfinder/data \
   eqlabs/pathfinder
   ```
-  fill ```YOUR_HTTPS``` with your Alchemy HTTPS in step 1 before
+  fill ```YOUR_HTTPS``` with your Alchemy HTTPS in [Step 1](https://github.com/DiscoverMyself/Starknet-Fullnode#1-register-on-alchemy)
   
   # 6. Create Screen for Log checker
   ```
